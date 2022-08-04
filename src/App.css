@@ -1,7 +1,19 @@
 .App {
   text-align: center;
+  
 }
 
+.AnimationContainer {
+  display: flex;
+  background-color: black;
+  /* background-image: radial-gradient(black, rgba(128, 0, 128, 0.368)55, 0, 0, 0.3), blue); */
+  height: 100vh;
+}
+
+.SingleAnimation {
+  width: 100vw;
+  height : 100vh;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
